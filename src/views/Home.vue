@@ -95,6 +95,9 @@
 <style lang="less">
   .el-tabs {
     width: 100%;
+    .el-tabs__item{
+      font-size: 16px;
+    }
   }
 
   .el-tabs__nav-wrap::after {

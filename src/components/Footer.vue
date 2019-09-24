@@ -35,6 +35,9 @@
 <style lang="less" scoped>
   .footer {
     background: #192f42;
+    .container{
+      padding: 0;
+    }
   }
 
   .btm_tel {
